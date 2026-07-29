@@ -1,4 +1,4 @@
-package test;
+package Base;
 
 public class Hello {
     public static void hello() {

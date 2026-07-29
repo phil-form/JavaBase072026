@@ -1,4 +1,4 @@
-package test;
+package Base;
 
 public class ExoRecap {
     public static void exoA1() {

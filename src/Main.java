@@ -1,4 +1,4 @@
-import test.Hello;
+import Base.Hello;
 
 void main() {
     Hello.hello();
